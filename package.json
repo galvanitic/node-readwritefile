@@ -1,0 +1,19 @@
+{
+  "name": "readwritefile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galvanitic/node-readwritefile.git"
+  },
+  "author": "Rodolfo Galvan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galvanitic/node-readwritefile/issues"
+  },
+  "homepage": "https://github.com/galvanitic/node-readwritefile#readme"
+}
